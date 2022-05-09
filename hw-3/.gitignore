@@ -1,0 +1,9 @@
+# python cache
+__pycache__
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# data
+AnnaKarenina.txt
+WarAndPeace.txt
